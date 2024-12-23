@@ -27,7 +27,7 @@
 - I examined the dataset for missing values using Excel's "Go To Special" function to identify blank cells.   
 - Duplicates were identified and removed using Excel’s "Remove Duplicates" feature to prevent redundant entries from skewing the analysis.  
 - Date columns were standardized to the MM/DD/YYYY format, and any dates listed as text were converted into proper date format using the `DATEVALUE` function.  
-- Column headings were reviewed and standardized for consistency, ensuring clarity with names like `Sales_Date`, `Bike_Type`, `Region`, and `Customer_Age`.  
+- Column headings were reviewed and standardized for consistency, ensuring clarity with names.  
 - I filtered the dataset to include only relevant columns for analysis, such as sales date, region, sales figures, unit price, and customer demographics, ensuring the data was focused.  
 - Additionally, I ensured that numeric columns, such as sales figures and prices, were set to the correct data type (number or currency) for proper analysis.
 
