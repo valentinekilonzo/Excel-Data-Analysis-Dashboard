@@ -1,3 +1,8 @@
-s Bike Purchase Behavior Analysis(Interactive Dashboard creation using MS Excel
-ss Project Objectives:
-The "Bike Purchase Behavior Analysis" project examines how customer demographics, such as gender, age, income, education, and region, influence the likelihood of purchasing a bike. It also explores key factors like homeownership, children, commute distance, and car ownership. By segmenting the data, the project identifies which customer groups are more likely to purchase a bike. An interactive Excel dashboard with pivot tables and charts visually presents these insights, making it easier to interpret the data and provide targeted marketing recommendations based on demographic trends and regional purchase patterns.
+# Bike Purchase Behavior Analysis
+
+## Objectives:
+- Analyze how customer demographics affect bike purchasing decisions.
+- Investigate key factors like homeownership, number of children, and commute distance.
+- Segment customers to identify which groups are more likely to buy a bike.
+- Create an interactive Excel dashboard with pivot tables and charts.
+- Provide data-driven recommendations for targeted marketing and sales strategies.
