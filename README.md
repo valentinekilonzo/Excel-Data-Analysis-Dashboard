@@ -22,6 +22,8 @@
 - Which region has the highest purchase rate for bikes?
 - How does education level influence the likelihood of purchasing a bike?
 
+ 
+
   
 
 
