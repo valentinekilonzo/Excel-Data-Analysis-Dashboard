@@ -24,7 +24,7 @@
 - Dashboard interaction "https://github.com/valentinekilonzo/Excel-Data-Analysis-Dashboard/blob/main/Excel%20Project%20Dataset.xlsx"
 
   # Process
--I examined the dataset for missing values using Excel's "Go To Special" function to identify blank cells.   
+- I examined the dataset for missing values using Excel's "Go To Special" function to identify blank cells.   
 - Duplicates were identified and removed using Excel’s "Remove Duplicates" feature to prevent redundant entries from skewing the analysis.  
 - Date columns were standardized to the MM/DD/YYYY format, and any dates listed as text were converted into proper date format using the `DATEVALUE` function.  
 - Column headings were reviewed and standardized for consistency, ensuring clarity with names like `Sales_Date`, `Bike_Type`, `Region`, and `Customer_Age`.  
@@ -33,6 +33,19 @@
 
   # Dashbord Image
   <img width="398" alt="Screenshot 2024-12-23 180139" src="https://github.com/user-attachments/assets/09b17f20-8536-44ad-840e-e4070bc354e7" />
+
+  # Project Insights
+- Short-distance commuters bought more bikes, likely due to the convenience and cost-effectiveness of cycling for daily travel.
+- Singles with no children were the most frequent buyers, suggesting that individuals with fewer responsibilities may have more disposable income and a greater interest in personal transportation.
+- Homeowners purchased more bikes, potentially due to having more space for storage and a greater sense of stability to invest in a bike.
+- Males with higher incomes were more likely to buy bikes, indicating that this demographic has more purchasing power for premium or specialized models.
+- Middle-aged customers (around 31-54 years old) bought more bikes, suggesting that this age group values biking for health, leisure, or commuting purposes.
+
+  # Final Conclusion
+This analysis of bike sales data provided valuable insights into customer behavior and sales trends.These groups tend to purchase more bikes, with preferences leaning toward convenience, quality, suggesting a need for adjusted marketing strategies and inventory planning.
+These insights can help businesses refine their target audience, optimize product offerings, and tailor marketing campaigns to meet the needs of high-potential customer segments. Additionally, the analysis provides a solid foundation for improving sales forecasting and making informed decisions around pricing, inventory, and promotions.
+
+
 
 
  
